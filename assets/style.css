@@ -453,7 +453,7 @@ footer img {
   
   .main-text .title span::before {
     content: "\a";
-    white-space: pre-line;			
+    white-space: pre;			
   }
 
   .main-text .info {
