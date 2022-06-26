@@ -450,6 +450,16 @@ footer img {
   .main-text .title {
     font-size: 6vw;
   }
+  
+  .main-text .title span::before {
+
+					content: "\a";
+
+					white-space: pre-line;
+
+					
+
+	}
 
   .main-text .info {
     font-size: 1.6vw;
